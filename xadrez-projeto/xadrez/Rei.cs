@@ -2,7 +2,7 @@
 using tabuleiro;
 using xadrez;
 
-namespace xadrez_projeto.xadrez
+namespace xadrez
 {
     class Rei : Peca
     {
