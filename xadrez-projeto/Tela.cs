@@ -26,7 +26,7 @@ namespace xadrez_projeto
             }
             else
             {
-                Console.WriteLine("ACABOU PU##!!");
+                Console.WriteLine("ACABOU!");
                 Console.WriteLine("XEQUEMATE!");
                 Console.WriteLine("Vencedor: " + partida.jogadorAtual);
             }
