@@ -50,12 +50,12 @@ namespace xadrez_projeto
 
                 }
 
-            
-
-            
 
 
-            Tela.imprimirTabuleiro(partida.tab);
+
+                Console.Clear();
+
+                Tela.imprimirTabuleiro(partida.tab);
 
 
             }
